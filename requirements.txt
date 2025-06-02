@@ -1,0 +1,10 @@
+# Tools used in your project:
+vite
+react
+react-dom
+typescript
+tailwindcss
+postcss
+autoprefixer
+eslint
+#npm run dev
